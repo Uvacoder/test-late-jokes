@@ -1,7 +1,7 @@
 {
   "name": "late-night-jokes",
   "version": "0.0.1",
-  "homepage": "https://uvacoder.github.io/test-late-jokes/",
+  "homepage": "https://test-late-jokes.vercel.app",
   "private": true,
   "dependencies": {
     "ace-css": "^1.1.0",
